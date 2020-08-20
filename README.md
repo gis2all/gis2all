@@ -6,13 +6,13 @@
    - Language: C#
    - Skills: GIS, WPF, various scripts, automated testing and so on
   
-## Contact ✉
+## Contact 📧
 
    - Welcome to follow my CSDN blog - [CSDN Blog](https://blog.csdn.net/DynastyRumble)
    - My Linkedin - [Chao Wang](https://www.linkedin.com/in/chao-wang-65b097182/)
    - My Email - gis2all@gmail.com
 
-## Card ⚙
+## Card 📈
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=gis2all&show_icons=true&theme=onedark)
 
