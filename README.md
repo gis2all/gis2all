@@ -1,5 +1,3 @@
- **[中文版README](gis2all/gis2all/README_zh.md)**
-
 ## ⚒ Skill 
 
    - Major: Geographic Information System (GIS)
