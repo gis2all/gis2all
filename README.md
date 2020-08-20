@@ -1,4 +1,4 @@
- **[中文版README](gis2all/README_zh.md)**
+ **[中文版README](gis2all/gis2all/README_zh.md)**
 
 ## Skill ⚒
 
