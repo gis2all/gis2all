@@ -1,12 +1,12 @@
 ## ⚒ Skill 
 
-   - Major: Geographic Information System (GIS)
-   - Language: C#
-   - Skills: GIS, WPF, various scripts, automated testing and so on
+   - Major - Geographic Information System (GIS)
+   - Language - C#
+   - Skills - GIS, WPF, Automated Testing and so on
   
 ## 📧 Contact
 
-   - Welcome to follow my CSDN blog - [CSDN Blog](https://blog.csdn.net/DynastyRumble)
+   - My CSDN Blog - [CSDN Blog](https://blog.csdn.net/DynastyRumble)
    - My Linkedin - [Chao Wang](https://www.linkedin.com/in/chao-wang-65b097182/)
    - My Email - gis2all@gmail.com
 
