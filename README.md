@@ -8,7 +8,7 @@
 
    - My CSDN Blog - [CSDN Blog](https://blog.csdn.net/DynastyRumble)
    - My Linkedin - [Chao Wang](https://www.linkedin.com/in/chao-wang-65b097182/)
-   - My Email - gis2all@gmail.com
+   - My Email - gis2eos@gmail.com
 
 ## 📈 Card
 
