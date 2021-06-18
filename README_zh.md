@@ -10,7 +10,7 @@
 
   - 欢迎关注我的CSDN博客 - [遗忘旖旎的博客](https://blog.csdn.net/DynastyRumble)
   - 我的Linkedin领英 - [Chao Wang](https://www.linkedin.com/in/chao-wang-65b097182/)
-  - 可以通过邮件联系我 - gis2all@gmail.com  
+  - 可以通过邮件联系我 - gis2eos@gmail.com  
 
 ## 卡片 ⚙   
 
