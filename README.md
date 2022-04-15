@@ -1,8 +1,8 @@
 ## ⚒ Skill 
 
    - Major - Geographic Information System (GIS)
-   - Language - C#
-   - Skills - GIS, WPF, Automated Testing and so on
+   - Language - C#, Python, Javascript
+   - Skills - GIS, DevOps, WPF, Automation Testing...
   
 ## 📧 Contact
 
